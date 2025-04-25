@@ -24,3 +24,9 @@ header h1 {
     background: yellow;
     align-items: center;
 }
+.search input, button {
+    font-family: "PT Sans Narrow", sans-serif;
+}
+.search input {
+    padding: 10px 55px 10px 5px;
+}
