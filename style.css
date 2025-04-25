@@ -1,0 +1,14 @@
+body {
+    background: rgb(188, 185, 185);
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+header {
+    text-align: center;
+}
+header h1 {
+    color: white;
+    font-family: Fascinate;
+}
