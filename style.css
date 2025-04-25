@@ -46,6 +46,9 @@ main h2, h3 {
 main h2 {
     text-align: center;
 }
+main p, ul, li {
+    font-family: "PT Sans Narrow", sans-serif;
+}
 .article {
     background: white;
     padding: 15px;
