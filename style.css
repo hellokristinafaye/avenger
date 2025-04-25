@@ -12,3 +12,9 @@ header h1 {
     color: white;
     font-family: Fascinate;
 }
+.nav-link a {
+    text-decoration: none;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 80;
+    color: black;
+}
