@@ -18,3 +18,9 @@ header h1 {
     font-weight: 80;
     color: black;
 }
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    background: yellow;
+    align-items: center;
+}
