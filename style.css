@@ -30,3 +30,8 @@ header h1 {
 .search input {
     padding: 10px 55px 10px 5px;
 }
+.search button {
+    background: rgb(23, 23, 23);
+    color: white;
+    padding: 10px 45px;
+}
