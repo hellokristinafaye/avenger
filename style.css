@@ -39,8 +39,13 @@ header h1 {
 main {
     display: flex;
 }
+main h2, h3 {
+    font-family: Fascinate, serif;
+    font-style: italic;
+}
 .article {
     background: white;
     padding: 15px;
     flex-basis: 74%;
+
 }
