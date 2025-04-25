@@ -61,3 +61,9 @@ main p, ul, li {
     flex-basis: 24%;
     margin: 15px auto;
 }
+
+footer {
+    background: white;
+    padding: 10px;
+    font-family: "PT Sans Narrow", sans-serif;
+}
