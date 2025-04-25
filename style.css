@@ -55,3 +55,9 @@ main p, ul, li {
     flex-basis: 74%;
     margin: 15px 15px 15px 0;
 }
+.sidebar {
+    background: yellow;
+    padding: 10px;
+    flex-basis: 24%;
+    margin: 15px auto;
+}
